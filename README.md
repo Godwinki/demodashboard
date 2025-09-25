@@ -9,6 +9,7 @@ Welcome to the **Demo Dashboard** project!
 Start the development server:
 
 ```bash
+npm install # to install all the dependencies 
 npm run dev      # or
 yarn dev         # or
 pnpm dev         # or
